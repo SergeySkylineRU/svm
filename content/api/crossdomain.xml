@@ -13,9 +13,6 @@
 	<allow-access-from domain="*.l3.cdn.bigpoint.com" secure="false"/> 
 	<allow-access-from domain="*.bigpoint.net" secure="false"/> 
 	<allow-access-from domain="*.bpsecure.com" secure="false"/> 
-	<allow-access-from domain="*.old-time.skysnetwork.ru" secure="false"/>
-	<allow-access-from domain="*.skysnetwork.ru" secure="false"/>
-	<allow-access-from domain="*.primary.skysnetwork.ru" secure="false"/>
-	<allow-access-from domain="*.test1.skysnetwork.ru" secure="false"/>
+	<allow-access-from domain="*.github.com" secure="false"/> 
 <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
 </cross-domain-policy>
