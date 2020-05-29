@@ -17,5 +17,6 @@
 	<allow-access-from domain="*.raw.githubusercontent.com" secure="false"/> 
 	<allow-access-from domain="*.githubusercontent.com" secure="false"/> 
 	<allow-access-from domain="*.github.io" secure="false"/>
+	<allow-access-from domain="*.oraclecloud.com" secure="false"/>
 <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
 </cross-domain-policy>
