@@ -1,0 +1,2 @@
+lasers do not work stably. With each update of the game client, some lasers stop working, and some start working. I could not find the dependencies, I even copied the binary code from the new lasers.
+If the game does not start, try turning off all the lasers and turning on one at a time to find the problem.
