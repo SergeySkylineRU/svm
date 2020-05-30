@@ -1,5 +1,6 @@
 # svm
 Supported whenever possible. For community needs.
+https://discord.gg/Gww2nuc
 
 Runs on Oracle Cloud
    infrastructure regions (eu-frankfurt-1)
