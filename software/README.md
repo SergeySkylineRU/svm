@@ -1,13 +1,5 @@
 # svm
-Supported whenever possible. For community needs.
+Prefab3D - used to convert AWD format to obj
 
-Runs on Oracle Cloud
-   infrastructure regions (eu-frankfurt-1)
+Away Builder used to convert obj format to AWD (also composing a scene for preliminary rendering in the engine)
 
-Currently running on a bunch of Charles Web Debugging Proxy + Oracle Cloud
-The repository * content * is cloned to Oracle Cloud. I plan to transfer there all frequently requested files for further autonomous work.
-
-You yourself have the right to edit the settings you need (for example, turn off the background)
-You can use all the technologies and files that are here for personal modification, or write me a discord (CGI Skyline # 6964) and we will discuss your idea.
-
-To replace the lasers, you have to manually select the settings, more details in * read me lasers *
