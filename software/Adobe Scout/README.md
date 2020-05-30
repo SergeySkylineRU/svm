@@ -1,0 +1,1 @@
+https://helpx.adobe.com/ru/scout/kb/download-adobe-scout-cc.html
